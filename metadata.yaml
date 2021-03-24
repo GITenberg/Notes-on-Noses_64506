@@ -1,0 +1,25 @@
+_repo: Notes-on-Noses_64506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warwick, Eden
+    alias: Jabet, George
+    deathdate: 1873
+    gutenberg_agent_id: '52935'
+    url: http://www.gutenberg.org/2009/agents/52935
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nose'
+- !lcsh 'Physiognomy'
+- !lcc 'BF'
+- GITenberg
+title: Notes on Noses
+url: http://www.gutenberg.org/ebooks/64506
